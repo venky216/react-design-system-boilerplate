@@ -1,5 +1,5 @@
 import React from "react";
-import "./dummy.css";
+import "./dummy.scss";
 
 
 const DummyComp = () => {
